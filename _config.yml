@@ -4,7 +4,7 @@ course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Na
 course_semester: "Fall 1998"
 
 baseurl: "/Rl_course_SM.github.io" # the subpath of your site, e.g. /blog/
-url: "http:///kumarr99/" # the base hostname & protocol for your site
+url: "http:///kumarr99.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Hogwarts"
 schoolurl: "https://hogwarts.edu"
