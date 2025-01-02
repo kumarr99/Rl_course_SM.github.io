@@ -1,10 +1,8 @@
 instructors:
   - name: Sandeep Manjanna
     profile_pic: /_images/pp/sandeep.jpeg
-    webpage: https://en.wikipedia.org/wiki/Albus_Dumbledore
-  - name: Minerva McGonagall
-    profile_pic: /_images/pp/mcgonagall.jpg
-
+    webpage: https://plaksha.edu.in/faculty-details/dr-sandeep-manjanna
+    
 teaching_assistants:
   - name: Harry Potter
     profile_pic: /_images/pp/potter.jpg
