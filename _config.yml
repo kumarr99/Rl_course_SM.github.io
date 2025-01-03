@@ -1,6 +1,6 @@
 # Site settings
 course_name: Reinforcement Learning
-course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
+course_description: ""
 course_semester: "Spring 2025"
 
 baseurl: "/Rl_course_SM.github.io" # the subpath of your site, e.g. /blog/
@@ -11,9 +11,9 @@ schoolurl: "https://plaksha.edu.in"
 twitter_username: username 
 
 address: |
-    School of Witchcraft and Wizardry
-    Hogwarts
-    Scotland
+    Plaksha University
+    Mohali
+    Punjab
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
